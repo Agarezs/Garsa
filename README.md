@@ -83,6 +83,6 @@ Contoh struktur data untuk satu item:
 ## Kredit
 
 Proyek ini dibuat dan dikembangkan oleh:
-- **Dzarel** - [GitHub](https://github.com/Agarezs)
+- **Enggar** - [GitHub](https://github.com/Agarezs)
 
 Terima kasih kepada semua pihak yang telah memberikan inspirasi dan dukungan.# Garsa
